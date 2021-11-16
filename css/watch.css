@@ -17,11 +17,12 @@
 .watch-page #more{
     display: none;
 }
-.form-control:focus{
-    box-shadow: none;
-}
+
 .card-inner{
     display: none;
+}
+.form-control:focus{
+    box-shadow: none;
 }
 .reply{
     background-color: #008cff;

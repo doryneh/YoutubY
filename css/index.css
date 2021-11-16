@@ -85,6 +85,7 @@ time{
 }
 .card{
     transition:all .5s ease;
+    margin:10px !important;
 }
 .card .card-title{
     height: 50px;
@@ -189,6 +190,10 @@ time{
     }
     .search-input{
         display: none;
+    }
+    .card{
+        transition:all .5s ease;
+        margin:50px !important;
     }
 }
     
